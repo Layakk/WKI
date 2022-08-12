@@ -1,0 +1,6 @@
+{
+	"REPORT_HANDLE":"0x0013",
+	"REPORT_SIZE":11,
+	"REPORT_OPTYPE":"0x1b",
+	"TEXT_SCRIPT":"{L_WIN}+rnotepad.exe{ENTER}{SLEEP 500}Writting on notepad demo{ENTER}This is Wireless Key Injection{ENTER}working as a charm...{ENTER}{L_ALT}+o{DOWNARROW}{ENTER}{TAB}{TAB}40{ENTER}"
+}
